@@ -1,0 +1,6 @@
+[submodule "microservicios_sv1"]
+	path = microservicios_sv1
+	url = https://github.com/JUANCARLOST496/microservicios_sv1.git
+[submodule "microservicios_login_sv1"]
+	path = microservicios_login_sv1
+	url = https://github.com/JUANCARLOST496/microservicios_login_sv1.git
