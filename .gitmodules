@@ -4,3 +4,6 @@
 [submodule "microservicios_login_sv1"]
 	path = microservicios_login_sv1
 	url = https://github.com/JUANCARLOST496/microservicios_login_sv1.git
+[submodule "microservicios_sv2"]
+	path = microservicios_sv2
+	url = https://github.com/JUANCARLOST496/microservicios_sv2.git
